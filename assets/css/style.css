@@ -1,0 +1,22 @@
+body {
+  font-family: "Fraunces", serif;
+}
+.footer {
+  background-color: rgb(5, 5, 65);
+  color: white;
+  font-size: 14px;
+}
+.footer a:hover {
+  text-decoration: none;
+}
+h5 a:hover {
+  text-decoration: none;
+  color: blue;
+}
+button a {
+  color: white;
+}
+button a:hover {
+  text-decoration: none;
+  color: aqua;
+}
